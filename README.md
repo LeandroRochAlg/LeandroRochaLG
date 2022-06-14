@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Compputer Science at Universidade Federal de Itajubá in Brazil
 - 💞️ I’m looking to collaborate on programming solutions
-- 📫 How to reach me: "leandrochaju@hotmail.com"
+- 📫 How to reach me: "leandrochaju@hotmail.com" | instagram.com/leandrorochalg
 
 <!---
 LeandroRochaLG/LeandroRochaLG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
