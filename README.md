@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeandroRochaLG
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Compputer Science at Universidade Federal de Itajubá in Brazil
+- 🌱 I’m currently learning Computer Science at Universidade Federal de Itajubá in Brazil
 - 💞️ I’m looking to collaborate on programming solutions
 - 📫 How to reach me: "leandrochaju@hotmail.com" | instagram.com/leandrorochalg
 
