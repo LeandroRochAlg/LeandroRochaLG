@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently studying Computer Science at Universidade Federal de Itajubá in Brazil
 - 💞️ I’m looking to collaborate on programming solutions
-- 📫 How to reach me: "leandrochaju@hotmail.com" | instagram.com/leandrorochalg
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:leandrochaju@hotmail.com)  [![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=instagram)](https://www.instagram.com/leandrorochalg)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leandro-rocha-258b90198/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrorochalg&theme=gruvbox_light&show_icons=true)
 
