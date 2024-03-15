@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
 <h3 align="center">A CS student and passionate for motorsports e movies</h3>
 
+<h3 align="left">Stats:</h3>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrorochalg&theme=swift&show_icons=true&line_height=24&card_width=500) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorochalg&theme=swift&layout=compact&card_width=500&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
@@ -25,4 +27,6 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandrorochalg" alt="leandrorochalg" /></a> </p>
+<h3 align="left">Trophies:</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=leandrorochalg)](https://github.com/ryo-ma/github-profile-trophy)
