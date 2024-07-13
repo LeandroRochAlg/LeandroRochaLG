@@ -28,7 +28,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" alt="My Skills"/></a>
 </p>
 
-<h3 align="center">Noticiable Projects:</h3>
+<h3 align="center">Noticeable Projects:</h3>
 <p align="center">
   <a href="https://github.com/LeandroRochAlg/Analise-de-Dados"><img src="https://img.shields.io/badge/Data analysis dashboard-0f5132?style=for-the-badge&logo=python&logoColor=white" alt="Analise de Dados"/></a>
   <a href="https://github.com/LeandroRochAlg/Oscars-Pool"><img src="https://img.shields.io/badge/Oscars pool website-e9b60d?style=for-the-badge&logo=typescript&logoColor=black" alt="Oscars Pool"/></a>
