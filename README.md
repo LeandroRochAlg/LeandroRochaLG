@@ -18,14 +18,14 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,vuejs&theme=dark" alt="My Skills"/></a>
 </p>
 
-<h4 align="center">Database:</h4>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" alt="My Skills"/></a>
-</p>
-
 <h4 align="center">Tools:</h4>
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,figma,arduino&theme=dark" alt="My Skills"/></a>
+</p>
+
+<h4 align="center">Database:</h4>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" alt="My Skills"/></a>
 </p>
 
 <h3 align="center">Noticiable Projects:</h3>
