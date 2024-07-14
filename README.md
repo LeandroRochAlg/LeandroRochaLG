@@ -15,7 +15,7 @@
 
 <h4 align="center">Frameworks:</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,vuejs&theme=dark" alt="My Skills"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,vuejs,dotnet&theme=dark" alt="My Skills"/></a>
 </p>
 
 <h4 align="center">Tools:</h4>
