@@ -10,7 +10,7 @@
 <h3 align="center">Skills:</h3>
 <h4 align="center">Languages:</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,ts,js,html,css,c,cpp,cs&theme=dark&perline=4" alt="My Skills"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,c,cpp,cs,ts,js,html,css&theme=dark&perline=4" alt="My Skills"/></a>
 </p>
 
 <h4 align="center">Frameworks:</h4>
