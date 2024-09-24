@@ -25,7 +25,7 @@
 
 <h4 align="center">Database:</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" alt="My Skills"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark" alt="My Skills"/></a>
 </p>
 
 <h3 align="center">Noticeable Projects:</h3>
