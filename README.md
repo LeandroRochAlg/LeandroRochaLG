@@ -32,6 +32,8 @@
 <p align="center">
   <a href="https://github.com/LeandroRochAlg/Analise-de-Dados"><img src="https://img.shields.io/badge/Data analysis dashboard-0f5132?style=for-the-badge&logo=python&logoColor=white" alt="Analise de Dados"/></a>
   <a href="https://github.com/LeandroRochAlg/Oscars-Pool"><img src="https://img.shields.io/badge/Oscars pool website-e9b60d?style=for-the-badge&logo=typescript&logoColor=black" alt="Oscars Pool"/></a>
+  <a href="https://github.com/LeandroRochAlg/WrightE"><img src="https://img.shields.io/badge/Creative Writing Platform-1e3f48?style=for-the-badge&logo=react&logoColor=white" alt="WrightE"/></a>
+  <a href="https://github.com/nicolassm145/zombie-game"><img src="https://img.shields.io/badge/Zombware Game-240808?style=for-the-badge&logo=unity&logoColor=white" alt="Zombware"/></a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
