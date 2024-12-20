@@ -4,7 +4,7 @@
 <h3 align="center">Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leandrorochalg&theme=react&show_icons=true&line_height=24&card_width=500&hide_border=true" alt="Anurag's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorochalg&theme=react&layout=compact&card_width=500&langs_count=8&hide_border=true&hide=jupyter%20notebook,lex" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorochalg&theme=react&layout=compact&card_width=500&langs_count=8&hide_border=true&hide=lex,yacc" alt="Top Langs"/>
 </p>
 
 <h3 align="center">Skills:</h3>
